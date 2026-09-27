@@ -69,11 +69,11 @@ I enjoy turning ideas into real-world projects using **React, Next.js, Node.js a
 
 <p align="left">
 
-<a href="https://www.facebook.com/YOUR_FACEBOOK_USERNAME">
+<a href="https://www.facebook.com/imamul.hasen.bappi">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+<a href="https://www.linkedin.com/in/br-bappi-7bba52417/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -100,11 +100,21 @@ A modern book browsing application using Next.js and React.
 
 ## 🎯 2026 Goals
 
-- ✅ Become a professional Web Developer
 - 🚀 Build production-ready projects
 - 📚 Master Next.js & TypeScript
 - 🧠 Improve problem-solving skills
-- 💼 Start working as a professional developer
+- 💼 Become a professional web developer
+- 🌎 Build and deploy real-world applications
+
+---
+
+## 📫 Connect With Me
+
+**Facebook:** [imamul.hasen.bappi](https://www.facebook.com/imamul.hasen.bappi)
+
+**LinkedIn:** [br-bappi-7bba52417](https://www.linkedin.com/in/br-bappi-7bba52417/)
+
+**GitHub:** [Bappi-dev](https://github.com/Bappi-dev)
 
 ---
 
