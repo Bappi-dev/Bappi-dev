@@ -67,14 +67,6 @@ I enjoy turning ideas into real-world projects using **React, Next.js, Node.js a
 
 ---
 
-## 📈 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bappi-dev&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="left">
