@@ -1,3 +1,11 @@
+
+<div align="center">
+
+<img src="./assets/banner.png" alt="Bappi Programmer Banner" width="100%">
+
+</div>
+
+
 # 👋 Hi, I'm Bappi Programmer
 
 ### 🚀 MERN Stack Developer | Frontend Developer | JavaScript Enthusiast
