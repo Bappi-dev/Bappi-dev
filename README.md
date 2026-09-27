@@ -123,3 +123,25 @@ A modern book browsing application using Next.js and React.
 ⭐ Feel free to explore my repositories and connect with me.
 
 **"Keep learning. Keep building. Keep growing. 🚀"**
+
+---
+
+## 📚 Learning Journey
+HTML -> CSS -> JavaScript
+             ↓
+        TypeScript
+             ↓
+       Tailwind CSS
+             ↓
+           React
+             ↓
+          Next.js
+             ↓
+     Node.js + BetterAuth
+             ↓
+    MongoDB + Mongoose
+             ↓
+ 🤖 AI Engineering & Coding 🚀
+             ↓
+ AI-Driven Full Stack Developer 🎯
+
